@@ -10,7 +10,9 @@ class BotMentions {
             ':D',
             'Well..',
             '!',
-            'Well it doesn\'t hurt'
+            'Well it doesn\'t hurt',
+            'Sorry, I don\t get you.',
+            'Go ask @imolorhe :P'
         ];
     }
 
